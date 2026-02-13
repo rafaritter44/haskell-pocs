@@ -1,2 +1,1 @@
-# haskell-pocs
-Haskell POCs
+# Haskell POCs
