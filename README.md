@@ -9,7 +9,7 @@ POC ideas:
     - https://github.com/scotty-web/scotty
     - https://github.com/yesodweb/yesod
     - https://github.com/digitallyinduced/ihp
-- HTTP Client:
+- HTTP Client: https://github.com/mrkkrp/req
 - SQL:
     - https://github.com/nikita-volkov/hasql
     - https://github.com/haskellari/postgresql-simple
