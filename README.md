@@ -14,3 +14,6 @@ POC ideas:
     - https://github.com/nikita-volkov/hasql
     - https://github.com/haskellari/postgresql-simple
 - Tests:
+    - https://github.com/hspec/hspec
+    - https://github.com/nick8325/quickcheck
+    - https://github.com/UnkindPartition/tasty
